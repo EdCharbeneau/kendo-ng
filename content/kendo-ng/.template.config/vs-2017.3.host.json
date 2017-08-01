@@ -1,0 +1,14 @@
+{
+  "name": {
+    "text": "Angular"
+  },
+  "description": {
+    "text": "Web application built with MVC ASP.NET Core and Kendo UI for Angular"
+  },
+  "order": 2000,
+  "icon": "icon.png",
+  "learnMoreLink": "www.kendoui.com",
+  "uiFilters": [
+    "oneaspnet"
+  ]
+}

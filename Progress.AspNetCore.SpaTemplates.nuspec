@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Progress.AspNetCore.SpaTemplates</id>
+    <version>0.1.0</version>
+    <authors>Ed Charbeneau</authors>
+    <owners>Ed Charbeneau</owners>
+    <description>
+      Unofficial: Single Page Application templates for ASP.NET Core with Kendo UI for Angular
+    </description>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://www.telerik.com/purchase/license-agreement/kendo-ui-complete</licenseUrl>
+    <projectUrl>https://www.telerik.com/kendo-ui</projectUrl>
+
+    <copyright>Copyright © Progress Software</copyright>
+    <language>en-US</language>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
